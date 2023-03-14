@@ -8,10 +8,11 @@
 
 锁存器用例代码如下：
 
+![](https://typora-bucket-1304106066.cos.ap-shanghai.myqcloud.com/images/c5a72e9266257237249ceb6bc125734.png)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDY1MDAwMCwtMTUwMDM3MDY1NCw1OT
-QxMjIzNjcsODA1MzUwNTE5XX0=
+eyJoaXN0b3J5IjpbLTgyNjM2NjE5MywtNzI0NjUwMDAwLC0xNT
+AwMzcwNjU0LDU5NDEyMjM2Nyw4MDUzNTA1MTldfQ==
 -->
