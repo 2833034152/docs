@@ -7,7 +7,13 @@
 测试代码：
 
 锁存器用例代码如下：
+
+
+![输入图片说明](https://raw.githubusercontent.com/2833034152/my_pictures/master/imgs/2023-03-14/usNBFAP2LYpDDh5k.png)
+
+
 ![输入图片说明](https://raw.githubusercontent.com/2833034152/my_pictures/master/imgs/2023-03-14/ki4K7lzdXV1fKcWL.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MTIyMzY3LDgwNTM1MDUxOV19
+eyJoaXN0b3J5IjpbLTE1MDAzNzA2NTQsNTk0MTIyMzY3LDgwNT
+M1MDUxOV19
 -->
