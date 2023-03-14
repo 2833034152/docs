@@ -6,11 +6,9 @@
 
 测试代码：
 
-上锁有效性测试用例函数如下：
+锁存器用例代码如下：
 
-![image-20221212142600993](C:\Users\kxliu\AppData\Roaming\Typora\typora-user-images\image-20221212142600993.png)
-
-![image-20221212142606937](C:\Users\kxliu\AppData\Roaming\Typora\typora-user-images\image-20221212142606937.png)
+![输入图片说明](/imgs/2023-03-14/p4VmxYDZwpkGevDP.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDIxMzA2MjZdfQ==
+eyJoaXN0b3J5IjpbODA1MzUwNTE5LC0xNzQyMTMwNjI2XX0=
 -->
