@@ -8,12 +8,12 @@
 
 锁存器用例代码如下：
 
-
+![输入图片说明](https://raw.githubusercontent.com/2833034152/my_pictures/master/imgs/2023-03-14/10eBolRYL89Lxbmc.png)
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTg0NDE3MiwtMTUwMDM3MDY1NCw1OT
-QxMjIzNjcsODA1MzUwNTE5XX0=
+eyJoaXN0b3J5IjpbLTEzNjczMjU2MTIsLTE1MDAzNzA2NTQsNT
+k0MTIyMzY3LDgwNTM1MDUxOV19
 -->
